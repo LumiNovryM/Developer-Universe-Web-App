@@ -5,6 +5,8 @@ Developer Universe is a social media application similar to Discord with chat, s
 ## Tech Stack
 
 - Nextjs
+- PlanetScale
+- Prisma
 - Reactjs
 - MySQL
 - ShadCn UI
