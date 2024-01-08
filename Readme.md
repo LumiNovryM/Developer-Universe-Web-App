@@ -11,6 +11,7 @@ Developer Universe is a social media application similar to Discord with chat, s
 - Socket IO
 - Tailwind CSS
 - Ubuntu Server
+- Clerk
 
 ## Design System
 
