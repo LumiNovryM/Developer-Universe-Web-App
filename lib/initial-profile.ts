@@ -27,5 +27,5 @@ export const initialProfile = async () => {
         }
     })
 
-    return profile
+    return profile;
 }
