@@ -17,7 +17,7 @@ Developer Universe is a social media application similar to Discord with chat, s
 
 ## Design System
 
-- #1e2736 [Navy/Base-Color]
+- #101b44 [Navy/Base-Color]
 - #fc4404 [Orange/Secondary-Color]
 - #ffffff [White/Tertiary-Color]
 
