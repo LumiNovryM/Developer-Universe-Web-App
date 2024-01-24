@@ -25,3 +25,4 @@ Developer Universe is a social media application similar to Discord with chat, s
 
 - Authentication Using Clerk [Login-Logout] 
 - Dark Mode [Shadcn-UI]
+- UploadImage [UploadThing]
