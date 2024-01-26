@@ -22,7 +22,7 @@ export const NavigationSidebar = async () => {
 
     return (
         <div className="space-y-4 flex flex-col items-center h-full w-full text-primary dark:bg-[#1b1b2c]">
-            Navigation Sidebarasdasd
+            Navigation Sidebar
         </div>
     )
 }
