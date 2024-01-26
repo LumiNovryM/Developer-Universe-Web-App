@@ -3,6 +3,8 @@ import { db } from "@/lib/db";
 
 import { currentProfile } from "@/lib/current-profile";
 
+import { NavigationAction } from "./navigation-action";
+
 
 export const NavigationSidebar = async () => {
 
@@ -22,7 +24,7 @@ export const NavigationSidebar = async () => {
 
     return (
         <div className="space-y-4 flex flex-col items-center h-full w-full text-primary dark:bg-[#1b1b2c]">
-            Navigation Sidebar
+            <NavigationAction />
         </div>
     )
 }
