@@ -11,7 +11,7 @@ interface ServerHeaderProps {
 export const ServerHeader = ({server, role}: ServerHeaderProps) => {
     return (
         <div>
-            Server Header
-        </div>
+            Server Header!
+       </div>
     )
 }
