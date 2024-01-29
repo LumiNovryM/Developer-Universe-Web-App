@@ -18,20 +18,20 @@ export const ActionTooltip = ({
   label,
   children,
   side,
-  align,
+  align
 }: ActionTooltipProps) => {
   return (
     <TooltipProvider>
       <Tooltip delayDuration={50}>
         <TooltipTrigger asChild>
-            {children}
+          {children}
         </TooltipTrigger>
         <TooltipContent side={side} align={align}>
-            <p className="font-semibold capitalize text-sm">
-                {label.toLowerCase()}
-            </p>
+          <p className="font-semibold text-sm capitalize">
+            {label.toLowerCase()}
+          </p>
         </TooltipContent>
       </Tooltip>
     </TooltipProvider>
-  );
-};
+  )
+}
