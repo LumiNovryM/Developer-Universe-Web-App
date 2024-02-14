@@ -33,6 +33,7 @@
     "@uploadthing/react": "^5.3.0",
     "autoprefixer": "10.4.15",
     "axios": "^1.4.0",
+    "bufferutil": "^4.0.8",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "cmdk": "^0.2.0",
@@ -58,6 +59,7 @@
     "tailwindcss-animate": "^1.0.6",
     "typescript": "5.1.6",
     "uploadthing": "^5.3.3",
+    "utf-8-validate": "^5.0.10",
     "uuid": "^9.0.0",
     "zod": "^3.22.2",
     "zustand": "^4.4.1"
